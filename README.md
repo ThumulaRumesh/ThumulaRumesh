@@ -20,8 +20,8 @@ I'm an undergraduate studying **Artificial Intelligence** at APIIT (Staffordshir
 
 #### 📌 Featured Projects
 
-- 🏢 [Altrium CRM – Business Analysis](https://github.com/Thehan-Andaramana/Altrium-CRM/tree/BA) — contributed as Business Analyst to requirements analysis, product and sprint backlogs, user stories, UML diagrams, role and permission analysis, and project documentation.
 - 🏨 [ML in Hotel & Tourism Systems](https://github.com/ThumulaRumesh/hotel-tourism-ml) — cancellation prediction, revenue forecasting & customer segmentation using Decision Trees, KNN, Logistic Regression, and a Neural Network
+- 🏢 [Altrium CRM – Business Analysis](https://github.com/Thehan-Andaramana/Altrium-CRM/tree/BA) — contributed as Business Analyst to requirements analysis, product and sprint backlogs, user stories, UML diagrams, role and permission analysis, and project documentation.
 - 🤖 [AI Admissions Chatbot](https://github.com/ThumulaRumesh/admissions-chatbot) — NLP-based chatbot with sentiment analysis, NER, and conversational memory
 - 🏥 [Healthcare Database System](https://github.com/ThumulaRumesh/healthcare-database-sql) — fully normalized SQL Server database with complete UNF→3NF design documentation
 - 📚 [Library Management System](https://github.com/ThumulaRumesh/library-management-system) — C#/.NET desktop app using MVC architecture
